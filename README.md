@@ -27,14 +27,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I am always curious about certain things 😄**
 
 - 😄 Pronouns: She/her
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/avnee-goyal-0410abc" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
+<a href="http://www.linkedin.com/in/avnee-goyal-0410abc" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30"/></a>
 <a href="https://www.instagram.com/avnee_goyal/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" /></a>
 <a href="mailto:avneegoyal410@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+<img align="center" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
