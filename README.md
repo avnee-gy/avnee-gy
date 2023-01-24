@@ -16,22 +16,25 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hii Everyone👋, I'm Avnee Goyal</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">A Computer Science Student Aspiring to become a Versatile Developer. 😄</h3>
+<h3 align="center">A Computer Science Student Aspiring to become a AI Engineer and Developer. 😄</h3>
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avnee-gy&label=Profile%20views&color=0e75b6&style=flat" alt="avnee-gy" /> </p>
 
-- 🌱 I’m currently trying to learn **everything 😀**
+- 🌱 I’m currently trying to learn Web Development
 
-- 📫 How to reach me **avneegoyal410@gmail.com**
+- 📫 Reach me at **avneegoyal410@gmail.com**
 
 - ⚡ Fun fact **I am always curious about certain things 😄**
 
+- 😄 Pronouns: She/her
+- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/avnee-goyal-0410abc" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/avnee_goyal/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/avnee-goyal-0410abc" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
+<a href="https://www.instagram.com/avnee_goyal/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" /></a>
 <a href="mailto:avneegoyal410@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="40" /></a>
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,7 +51,8 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>   
+  <a href="https://canva.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="jupter" width="40" height="40"> </a>
 </p>
 <table>
 <tr>
