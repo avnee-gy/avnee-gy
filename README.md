@@ -17,7 +17,7 @@
 <br>
 <br>
 
-# <h3 align="center">Connect with me:</h3>
+# <h3 align="center">Connect with me:</h3><br>
 <p align="center">
 <a href="http://www.linkedin.com/in/avnee-goyal-0410abc" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30"/></a>
 <a href="https://www.instagram.com/avnee_goyal/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" /></a>
@@ -25,7 +25,7 @@
 <img align="center" alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" /></a>
 </p>
 
-# <h3 align="center">Languages and Tools:</h3>
+# <h3 align="center">Languages and Tools:</h3><br>
 <p align="center"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -47,29 +47,47 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"> </a>
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> </a>
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"> </a>
-</p>
+</p><br>
 
-<p align="center">
+
  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
- 
-</p>
+# <h3 align="center">✍️ Random Dev Quote </h3>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></img></p>
+
+
+
+
+
+# <h3 align="center">📊 GitHub Stats:</h3></br>
+
 <table>
 <tr>
   <td align="center">
   <p align="center">
   <a href="https://github.com/avnee-gy">
-    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=avnee-gy&"/>
+    <img align="center" height="300px" width="600" src="https://github-readme-stats.vercel.app/api?username=avnee-gy&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true"/>
   </a>
   </td>
   <td align="center">
   <a href="https://github.com/avnee-gy">
-  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=avnee-gy&show_icons=true&locale=en" />
+  <img align="center" height="200px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=avnee-gy&theme=synthwave&hide_border=true" />
   </a>
   </td>
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avnee-gy&show_icons=true&locale=en&layout=compact" alt="avnee-gy" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnee-gy&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="avnee-gy" /></p>
+  
+  
+
+
+## <h3 align="center"> 🏆 GitHub Trophies </h3></br>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=avnee-gy&theme=dracula&no-frame=true&no-bg=true&margin-w=4"></img></p>
+
+# <h3 align="center">🔝 Top Contributed Repo </h3></br>
+  <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=avnee-gy&limit=5&theme=dracula&combine_all_yearly_contributions=true"></img></p>
+  
+
+
 
