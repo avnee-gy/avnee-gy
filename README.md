@@ -1,31 +1,16 @@
 
-<!--
-**avnee-gy/avnee-gy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hii Everyone👋, I'm Avnee Goyal</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A Computer Science Student Aspiring to become a AI Engineer and Developer. 😄</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avnee-gy&label=Profile%20views&color=0e75b6&style=flat" alt="avnee-gy" /> </p>
 
-- 🌱 I’m currently trying to learn Web Development
+---
+[![](https://visitcount.itsvg.in/api?id=avnee-gy&icon=8&color=11)](https://visitcount.itsvg.in)
 
-- 📫 Reach me at **avneegoyal410@gmail.com**
+<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" align="center" /> About Me:</h2>
+ 
+🌱 I’m currently trying to learn Web Development<br> 🤝 I’m looking for help with Open Sourcing<br>👨‍💻 All of my projects are available at https://avnee-gy.github.io/Avnee.dev/<br>📫 Reach me avneegoyal410@gmail.com
 
-- ⚡ Fun fact **I am always curious about certain things 😄**
-
-- 😄 Pronouns: She/her
 
 # <h3 align="center">Connect with me:</h3>
 <p align="center">
