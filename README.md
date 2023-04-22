@@ -14,10 +14,10 @@
 
 # <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="http://www.linkedin.com/in/avnee-goyal-0410abc" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30"/></a>
-<a href="https://www.instagram.com/avnee_goyal/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" /></a>
+<a href="http://www.linkedin.com/in/avnee-goyal-0410abc" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30"/></a>
+<a href="https://www.instagram.com/avnee_goyal/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" /></a>
 <a href="mailto:avneegoyal410@gmail.com">
-<img align="center" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" /></a>
+<img align="center" alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" /></a>
 </p>
 
 # <h3 align="center">Languages and Tools:</h3>
@@ -42,8 +42,6 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"> </a>
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> </a>
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="  https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg
-" alt="tensorflow" width="40" height="40"> </a>
 </p>
 <table>
 <tr>
