@@ -2,15 +2,20 @@
 
 <h1 align="center">Hii Everyone👋, I'm Avnee Goyal</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">A Computer Science Student Aspiring to become a AI Engineer and Developer. 😄</h3>
+<h3 align="center">A Computer Science Student Aspiring to become a AI Engineer and Developer. </h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avnee-gy&icon=8&color=11)](https://visitcount.itsvg.in)
 
-<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" align="center" /> About Me:</h2>
- 
-🌱 I’m currently trying to learn Web Development<br> 🤝 I’m looking for help with Open Sourcing<br>👨‍💻 All of my projects are available at https://avnee-gy.github.io/Avnee.dev/<br>📫 Reach me avneegoyal410@gmail.com
+<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" align="center" /> About Me:</h1>
+<img align ="right" alt="coding" width="250" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
 
+<br><br>
+
+🌱 I’m currently trying to learn Web Development<br> 🤝 I’m looking for help with Open Sourcing<br>👨‍💻 All of my projects are available at https://avnee-gy.github.io/Avnee.dev/<br>📫 Reach me avneegoyal410@gmail.com<br>
+
+<br>
+<br>
 
 # <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -42,6 +47,13 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"> </a>
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> </a>
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"> </a>
+</p>
+
+<p align="center">
+ 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+ 
 </p>
 <table>
 <tr>
