@@ -2,7 +2,7 @@
 
 <h1 align="center">Hii Everyone👋, I'm Avnee Goyal</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">A Computer Science Student Aspiring to become a AI Engineer and Developer. </h3>
+<h3 align="center">A Computer Science Student/Frontend Developer/App Developer </h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avnee-gy&icon=8&color=11)](https://visitcount.itsvg.in)
@@ -12,7 +12,7 @@
 
 <br><br>
 
-🌱 I’m currently trying to learn Web Development<br> 🤝 I’m looking for help with Open Sourcing<br>👨‍💻 All of my projects are available at https://avnee-gy.github.io/Avnee.dev/<br>📫 Reach me avneegoyal410@gmail.com<br>
+🌱 I’m currently working as an Software Developer in Test Intern<br>🌱 I love developing visually attractive and functional frontend for Web and Mobile applications<br>  🤝 I’m looking for opportunities in Mobile Development using React Native<br>👨‍💻 All of my projects are available at https://avnee-gy.github.io/Avnee.dev/<br>📫 Reach me avneegoyal410@gmail.com<br>
 
 <br>
 <br>
